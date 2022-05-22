@@ -10,3 +10,6 @@ Project is created with:
 * scikit
 * plotly 
 * kneed 
+
+## Example of Science Discipline
+![1652202121983](https://user-images.githubusercontent.com/49460746/169710425-2847431a-ce21-4aa1-bf60-9b13fc3ce7ae.jpg)
